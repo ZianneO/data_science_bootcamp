@@ -1,4 +1,4 @@
-# data_science_bootcamp
+# README.md file
 - 👋 Hi, I’m @ZianneO
 - 👀 I’m interested in Biology
 - 🌱 I’m currently learning how to code for data analysis 
